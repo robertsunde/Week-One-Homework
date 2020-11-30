@@ -21,4 +21,4 @@ Mimo (iphone application)
 w3schools.com (website)
 https://medium.com/@Moin_Gani/semantic-code-and-indentation-a-beginners-guide-to-clean-coding-2fff9aaa901b (website)
 Robert Kurle (Tutor)
-
+http://clipart-library.com/clip-art/372-3727649_small-letter-h-in-circle.htm (h-logo)
